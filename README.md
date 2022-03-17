@@ -1,5 +1,5 @@
 # Boirplate_Analise_Dados-
-Essa é uma Boirplate simples para análise de dados utilizando do pandas.
+Essa é uma Boilerplate simples para análise de dados utilizando do pandas.
 
 Se o seu código der um erro na hora de importar os arquivos:
 - CadastroClientes.csv
